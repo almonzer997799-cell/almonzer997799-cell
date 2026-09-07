@@ -6,7 +6,7 @@
 <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-### 🧑‍💻 Backend Developer • 🎥 YouTube Content Creator • 🚀 Problem Solver 😉
+###  Backend Developer🧑‍💻 •  YouTube Content Creator🎥 •  Problem Solver 😉
 
 <br Working">
 
@@ -27,13 +27,14 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=AL_monzer&style=for-the-badge&color=orange&label=PROFILE+VIEWS" alt="Profile Views">
+![Profile Views](https://komarev.com/ghpvc/?username=almonzer997799-cell&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-<div align="center">
+
+
 
 ## ⚡ `code(); learn(); build(); share(); repeat();`
 
@@ -41,45 +42,6 @@
 
 ---
 
-## 🧠 About Me
-
-```python
-class AL_monzer:
-
-    name = "AL_monzer"
-    role = "Backend Developer"
-    content_creator = True
-    youtube = "Phobia Code"
-
-    languages = [
-        "Python",
-        "Java",
-        "Go"
-    ]
-
-    frameworks = [
-        "Django",
-        "FastAPI",
-        "Spring"
-    ]
-
-    databases = [
-        "PostgreSQL",
-        "MySQL"
-    ]
-
-    interests = [
-        "Backend Engineering",
-        "REST APIs",
-        "System Design",
-        "Clean Architecture",
-        "Scalable Systems",
-        "Database Design"
-    ]
-
-    def mission(self):
-        return "Build. Learn. Share. Improve."
-```
 
 ---
 
