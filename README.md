@@ -21,6 +21,9 @@
 <a href="https://t.me/h9jh9">
   <img src="https://img.shields.io/badge/Telegram-@h9jh9-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
+<a href="https://discord.gg/7rpSq8rT">
+  <img src="https://img.shields.io/badge/Discord-Phobia_Code-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
 
 <br><br>
 
