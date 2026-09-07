@@ -179,19 +179,31 @@ covering development, backend technologies, projects and practical programming.
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/AL_monzer">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AL_monzer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=AL_monzer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  width="48%"
+  alt="AL_monzer GitHub Stats"
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AL_monzer&theme=tokyonight&hide_border=true" width="48%"/>
+<img
+  src="https://streak-stats.demolab.com?user=AL_monzer&theme=tokyonight&hide_border=true"
+  width="48%"
+  alt="AL_monzer GitHub Streak"
+/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL_monzer&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL_monzer&layout=compact&theme=tokyonight&hide_border=true"
+  width="40%"
+  alt="Top Languages"
+/>
 
 </a>
 
@@ -203,7 +215,11 @@ covering development, backend technologies, projects and practical programming.
 
 <div align="center">
 
-[![AL\_monzer's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AL_monzer\&theme=tokyo-night\&hide_border=true\&area=true)](https://github.com/AL_monzer)
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AL_monzer&theme=tokyo-night&hide_border=true&area=true"
+  width="95%"
+  alt="AL_monzer Contribution Graph"
+/>
 
 </div>
 
@@ -213,10 +229,23 @@ covering development, backend technologies, projects and practical programming.
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/AL_monzer/AL_monzer/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AL_monzer/AL_monzer/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AL_monzer/AL_monzer/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/AL_monzer/AL_monzer/output/github-contribution-grid-snake.svg"
+    width="95%"
+  />
+</picture>
 
 </div>
-
 ---
 
 ## 🧩 Developer Mindset
