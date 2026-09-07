@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="70%" alt="Hello Coders">
-
-# 👋 Hey, I'm **AL_monzer**
+<a href="https://github.com/AL_MONZER">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=HEllO+%3Ccoders%2F%3E;I'm+AL_MONZER" alt="Hello Coders" width="60%"/>
+</a>
+<br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 ### 🧑‍💻 Backend Developer • 🎥 YouTube Content Creator • 🚀 Problem Solver
 
